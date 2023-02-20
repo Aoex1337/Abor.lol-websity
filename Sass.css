@@ -1,0 +1,22 @@
+body {
+  background-image: url(jax.png);
+  background-size: cover;
+}
+
+* {
+  color: hotpink;
+}
+
+h1 {
+  display: flex;
+  font-size: 10rem;
+  text-align: center;
+  justify-content: center;
+  text-decoration: underline;
+}
+
+p {
+  display: flex;
+  justify-content: center;
+  font-size: 2rem;
+}/*# sourceMappingURL=Sass.css.map */
